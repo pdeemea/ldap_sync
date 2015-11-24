@@ -1,1 +1,1 @@
-# ldap_sync
+oo# ldap_sync
