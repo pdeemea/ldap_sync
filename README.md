@@ -1,1 +1,4 @@
-oo# ldap_sync
+# ldap_sync
+Process developed in UBS for LDAP synchronization
+Dependencies:
+	ldap_search Linux
